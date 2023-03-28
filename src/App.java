@@ -35,7 +35,7 @@ public class App {
             String nomeArquivo = titulo + ".png";
 
             geradora.cria(inputStream, nomeArquivo);
-
+ 
 
             System.out.println("\u001b[1mTítulo:\u001b[m"+filme.get("title"));
            // System.out.println("\u001b[1mUrl da imagem:\u001b[m"+filme.get("image"));
